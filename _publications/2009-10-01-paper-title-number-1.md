@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "No Prosody, No Emotion: Affective Prosody by Chinese EFL Learners"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Journal of Asia TEFL'
+paperurl: 'http://dx.doi.org/10.18823/asiatefl.2022.19.1.8.125'
+citation: 'Wang, Zepeng & Yansheng, Mao. (2022). &quot;No Prosody, No Emotion: Affective Prosody by Chinese EFL Learners.&quot; <i>Journal of Asia TEFL</i>. 19(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
